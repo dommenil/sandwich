@@ -1,5 +1,6 @@
 navet
 patate
+choux
 endive
 tomate
 haricot
