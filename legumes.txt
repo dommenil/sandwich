@@ -1,0 +1,6 @@
+navet
+patate
+endive
+tomate
+haricot
+carotte
